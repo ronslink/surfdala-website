@@ -57,7 +57,7 @@ const Contact = () => {
 
                         <div style={{ marginTop: '2rem', textAlign: 'center', fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
                             <p>Or email us directly at:</p>
-                            <a href="mailto:surdala1@gmail.com" style={{ color: 'var(--primary-color)' }}>surdala1@gmail.com</a>
+                            <a href="mailto:surfdala1@gmail.com" style={{ color: 'var(--primary-color)' }}>surfdala1@gmail.com</a>
                         </div>
                     </div>
                 </motion.div>

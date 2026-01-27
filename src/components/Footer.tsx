@@ -30,8 +30,8 @@ const Footer = () => {
                     <div>
                         <h4 style={{ color: 'white', marginBottom: '1.2rem' }}>Contact</h4>
                         <p style={{ color: '#94a3b8' }}>Nairobi, Kenya</p>
-                        <a href="mailto:surdala1@gmail.com" style={{ color: 'var(--primary-color)', fontWeight: 500 }}>
-                            surdala1@gmail.com
+                        <a href="mailto:surfdala1@gmail.com" style={{ color: 'var(--primary-color)', fontWeight: 500 }}>
+                            surfdala1@gmail.com
                         </a>
                     </div>
                 </div>
